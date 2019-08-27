@@ -1,0 +1,1 @@
+node C:\dump\remove_cls\index.js
